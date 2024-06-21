@@ -2,7 +2,7 @@
 
 A simple python voice assistant, inspired by [CodeWithHarry's](https://github.com/CodeWithHarry) 1st [Mega Project](https://github.com/CodeWithHarry/The-Ultimate-Python-Course/tree/main/Mega%20Project%201%20-%20Jarvis) from his Python Tutorial.
 
-![Demo]('./assets/demo.png')
+![Demo](https://github.com/eritaakash/voice-assistant/blob/main/assets/demo.PNG?raw=true)
 
 ### Introduction
 
