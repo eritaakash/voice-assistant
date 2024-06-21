@@ -2,6 +2,8 @@
 
 A simple python voice assistant, inspired by [CodeWithHarry's](https://github.com/CodeWithHarry) 1st [Mega Project](https://github.com/CodeWithHarry/The-Ultimate-Python-Course/tree/main/Mega%20Project%201%20-%20Jarvis) from his Python Tutorial.
 
+![Demo]('./assets/demo.png')
+
 ### Introduction
 
 Since this project is NOT a direct copy-paste - rather it's made for learning purposes - so as you can see, it lacks in WeatherAPI and OpenAI Integration. It's solely based on what I have learned from Harry's tutorial.
